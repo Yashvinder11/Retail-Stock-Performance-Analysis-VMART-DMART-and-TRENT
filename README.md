@@ -1,3 +1,6 @@
+Stock Market Analysis Project
+
+Overview
 This project performs a comparative analysis of three major retail stocks listed in the Indian market: VMART, DMART, and TRENT. Using Python and libraries such as yfinance, we extract and analyze historical stock prices over a one-year period (December 2023 - November 2024). The aim is to uncover trends and insights that can assist in making informed investment decisions.
 
 Project Objectives
